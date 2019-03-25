@@ -22,3 +22,8 @@ Result
 ![](https://github.com/hasnain003/Flower-Classifier/blob/master/img/e1.PNG?raw=true)
 ![](https://github.com/hasnain003/Flower-Classifier/blob/master/img/e2.PNG?raw=true)
 ![](https://github.com/hasnain003/Flower-Classifier/blob/master/img/e3.PNG?raw=true)
+Area of Improvement
+===================
+1. Training for more epoch might result in high accuracy
+2. Adjust hyperparameters such as learning rate or introduce momentum to model to increase accuracy.
+3. Change the classifier architecture to get high accuracy
